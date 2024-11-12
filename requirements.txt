@@ -1,6 +1,0 @@
-pip>=24.3.1
-setuptools>=65.5.1
-streamlit
-pandas==2.2.3
-numpy==1.26.2
-scikit-learn==1.5.2
