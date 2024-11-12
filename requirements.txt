@@ -1,6 +1,0 @@
-numpy
-pandas
-sklearn.processing
-LabelEncoder
-io
-BytesIO
